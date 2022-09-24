@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcheniquePC02.API", "EcheniquePC02.API\EcheniquePC02.API.csproj", "{F96DAA8A-1040-40F5-AF2C-1C7C17D9A221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96DAA8A-1040-40F5-AF2C-1C7C17D9A221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96DAA8A-1040-40F5-AF2C-1C7C17D9A221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96DAA8A-1040-40F5-AF2C-1C7C17D9A221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96DAA8A-1040-40F5-AF2C-1C7C17D9A221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E99106-9528-4386-A9EF-CF7F667A4459}
+	EndGlobalSection
+EndGlobal
